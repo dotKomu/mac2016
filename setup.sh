@@ -12,9 +12,9 @@ brew cask install alfred
 brew cask install bettertouchtool
 brew cask install iterm2
 brew cask install google-japanese-ime
-brew cask install sourcetree
-brew cask install path-finder
-brew cask install skype
+# brew cask install sourcetree
+# brew cask install path-finder
+# brew cask install skype
 brew cask install google-chrome
 # brew cask install battle-net
 brew cask install steam
