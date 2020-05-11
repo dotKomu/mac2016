@@ -3,7 +3,7 @@ sudo chown -R $(whoami):admin /usr/local
 brew update
 brew install mas
 mas install 1024640650 # CotEditor
-mas install 896624060 # Kobito
+# mas install 896624060 # Kobito
 mas install 425424353 # The Unarchiver
 mas install 539883307 # LINE
 mas install 497799835 # Xcode
@@ -16,7 +16,7 @@ brew cask install sourcetree
 brew cask install path-finder
 brew cask install skype
 brew cask install google-chrome
-brew cask install battle-net
+# brew cask install battle-net
 brew cask install steam
 
 sudo xcode-select --install
